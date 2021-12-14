@@ -1,0 +1,9 @@
+{
+	"name": "kkadfdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "063bd462-4b62-47be-b593-587a1d134537",
+		"tenantId": "1632f602-bf72-4e09-8372-8da984c7fee8"
+	}
+}
